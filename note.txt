@@ -1,0 +1,16 @@
+facebook - React
+
+Boostrap - Twitter
+
+----------------
+html, css, layouts(float, flex),media queries(mobile first, desktop first) 
+html
+    body - section, nav, div
+Bootstrap:
+- Your css files should be always below the bootstrap
+
+div classes( container, container-sm, container-lg, container-fluid)
+buttons(btn)
+
+Boostrap grids 
+- always 12 columns

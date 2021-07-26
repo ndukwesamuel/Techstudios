@@ -1,0 +1,50 @@
+.nav{
+    margin-left: 1200px;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+.nav-elements{
+    margin-left: 10px;
+}
+
+.google{
+    font-size: 100px;
+    margin-left: 33%;
+    margin-bottom: 20px;
+    width: 800px;
+}
+.p{
+    margin: 2px;
+}
+
+.blue{
+    color: blue;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+input{
+    margin: 50px;
+    margin-left: 30%;
+    margin-top: 20px;
+    width: 500px;
+    height: 35px;
+    border-radius: 30px;
+}
+.buttons{
+    margin-left: 39%;
+}
+.links{
+    margin-left: 35%;
+}
+a{
+    color: blue;
+}

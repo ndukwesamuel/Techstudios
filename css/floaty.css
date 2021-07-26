@@ -1,0 +1,45 @@
+.container{
+    margin-left: 20%;
+    margin-top: 15%;
+}
+.child{
+    float: left;
+    width:200px;
+    background-color: azure;
+    height: 280px;
+    padding: 30px;
+}
+.one{
+    background-color: #ff3f00;
+}
+.two{
+    background-color:#41665a;
+}
+.three{
+    background-color: #083f2f;
+}
+.sedan,.suv,.luxury{
+    font-size: 30px;
+    color: white;
+}
+.content{
+    margin-top: 40px;
+    color: white;
+}
+button{
+    margin-top: 100px;
+    border-radius: 20px;
+    padding: 6px;
+    width: 120px;
+    border: 1px solid white;
+    color: white;
+}
+.b1{
+    background-color: #ff3f00;
+}
+.b2{
+    background-color:#41665a;
+}
+.b3{
+    background-color: #083f2f;
+}

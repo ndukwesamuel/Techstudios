@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+    background-image: url(../images/background.jpg);
+}
+
+li{
+    color: yellow;
+}
+.recipe{
+    font-size: 70px;
+}
+.one{
+    background-color: chartreuse;
+}
+.two{
+    color: orange
+}
+ul{
+    border: 3px solid blueviolet;
+}
+p{
+    color:#9b8585
+}

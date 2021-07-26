@@ -1,0 +1,58 @@
+.container{
+    background-color: black;
+}
+.move{
+    margin-left: 25%;
+    margin-top: 15%;
+}
+.content,.image{
+    width: 350px;
+    height:250px;
+    background-color: #121230;
+    float: left;
+}
+img{
+    width: 350px;
+    height: 250px;
+}
+.content{
+    color: white;
+}
+
+p{
+    padding-left: 30px;
+}
+.tt{
+    font-size: 30px;
+}
+.body{
+    font-size: 10px;
+    position: absolute;
+    top: 300px;
+}
+.child{
+    padding-left: 30px;
+    position:absolute;
+    top: 380px;
+    display: inline;
+}
+.top{
+    font-size: 20px;
+}
+.bottom{
+    font-size: 8px;
+    margin-top: 5px;
+    color: #e5dada;
+}
+.three{
+    position: absolute;
+    left: 130px;
+}
+.twelve{
+    position: absolute;
+    left: 230px; 
+}
+.ten{
+    position: absolute;
+    left: 30px; 
+}

@@ -1,0 +1,51 @@
+body{
+    background-color: chartreuse;
+}
+
+.form-div{
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    margin-left: 35%;
+    margin-top: 15%;
+    box-shadow: 3px 3px 5px 6px rgba(0, 0, 0, 0.4);
+}
+.child{
+    padding-left: 10%;
+    padding-top: 10%;
+}
+input{
+    width:280px;
+    height: 40px;
+    background-color:#eadada;
+    padding-left: 20px;
+    font-size: 15px;
+    position: relative;
+    top: 20%;
+    border: none;
+}
+.text,.pass{
+    height: 30px;
+}
+.button{
+    
+}
+.submit{
+    background-color: #2cba10;
+    width: 306px;  
+    margin-bottom: 10%; 
+}
+.pass{
+    height: 30px;
+}
+.register{
+    margin-left: 23%;
+    height: 30px;
+    margin-bottom: 1%;
+}
+span{
+    font-size: 15px;
+    margin-top: 15px;
+    position: relative;
+    bottom: 20px;
+}

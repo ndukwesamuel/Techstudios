@@ -1,0 +1,28 @@
+body{
+    background-color: cyan;
+}
+
+.one{
+    margin: 30%;
+    font-size: 100px;
+}
+
+input{
+    margin-left: 30%;
+    margin-top: 50px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: palevioletred;
+    width:550px;
+    height: 50px;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    border-radius: 40px;
+}
+
+li{
+    lis
+}
